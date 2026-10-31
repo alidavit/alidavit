@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Ali Davit 👋
 
-<!--
-**alidavit/alidavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building practical web applications, backend systems, and reliable infrastructure.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing web applications for business and internal operations
+- Building backend services and REST APIs
+- Managing Linux VPS deployments and production environments
+- Working with databases, real-time data, and IoT device integrations
+- Improving application monitoring, logging, and CI/CD workflows
+
+## Skills
+
+**Languages & Frameworks**  
+Go · PHP · JavaScript · Laravel · CodeIgniter · NestJS · Express.js · Svelte · React · Vue
+
+**Databases & Messaging**  
+PostgreSQL · TimescaleDB · MySQL · NATS JetStream · MQTT
+
+**Infrastructure & Tools**  
+Linux · Docker · Nginx · GitHub Actions · Woodpecker CI · Grafana · Loki · Node-RED
+
+## Interests
+
+Backend engineering · DevOps · R&D · IoT and device protocols · Performance · AI-assisted development
