@@ -27,4 +27,4 @@ Backend engineering · DevOps · R&D · IoT and device protocols · Performance 
 
 ## Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidavit&layout=compact&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alidavit&theme=github" alt="Top languages" />
