@@ -24,3 +24,7 @@ Linux · Docker · Nginx · GitHub Actions · Woodpecker CI · Grafana · Loki �
 ## Interests
 
 Backend engineering · DevOps · R&D · IoT and device protocols · Performance · AI-assisted development
+
+## Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alidavit&layout=compact&hide_border=true" alt="Top languages" />
